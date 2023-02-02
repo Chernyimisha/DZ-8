@@ -1,0 +1,30 @@
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\bin\Debug\net6.0\Task58.exe
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\bin\Debug\net6.0\Task58.deps.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\bin\Debug\net6.0\Task58.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\bin\Debug\net6.0\Task58.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\refint\Task58.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task58\obj\Debug\net6.0\ref\Task58.dll
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\bin\Debug\net6.0\Task58.exe
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\bin\Debug\net6.0\Task58.deps.json
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\bin\Debug\net6.0\Task58.dll
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\bin\Debug\net6.0\Task58.pdb
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.dll
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\refint\Task58.dll
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.pdb
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Projects\DZ №8\Task58\obj\Debug\net6.0\ref\Task58.dll

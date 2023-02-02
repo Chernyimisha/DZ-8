@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AI2Zuv3TE/YlXqVAi8i0JrVQQErDAzvB18fDgI5y6uwWOMOlJaMO5KIJRH8dJYYZMEoALnm5q4mK6lqN1x7FLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Администратор\\Desktop\\Projects\\DZ №8\\Task54\\Task54.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
