@@ -8,7 +8,7 @@
 // Программа считает сумму элементов в каждой строке и выдаёт номер 
 // строки с наименьшей суммой элементов: 1 строка
 
-int[,] array2D = CreateMatrix(5, 6, 1, 10);
+int[,] array2D = CreateMatrix(3, 3, 1, 10);
 PrintMatrix(array2D);
 Console.WriteLine();
 int[] sumElemArray = SumElemArray(array2D);
@@ -22,7 +22,11 @@ int CountMinElemArray(int[] arr)
     int minElemIndex = 0;
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] < minElem) minElemIndex = i;
+        if (arr[i] < minElem)
+        {
+            minElem = arr[i];
+            minElemIndex = i;
+        }
     }
     return minElemIndex;
 }
